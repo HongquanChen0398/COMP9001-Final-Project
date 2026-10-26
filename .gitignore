@@ -1,0 +1,4 @@
+# Ignore Python caches and temporary files.
+__pycache__/
+*.py[cod]
+*.tmp
