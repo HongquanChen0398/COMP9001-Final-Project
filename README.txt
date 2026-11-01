@@ -107,3 +107,6 @@ Expected: 18 tests pass. Tests do not change saved records.
 Note
 This GUI requires a desktop session and cannot run in the Ed code runner.
 Check Tkinter with: python -m tkinter
+
+GitHub Repository
+https://github.com/HongquanChen0398/COMP9001-Final-Project
