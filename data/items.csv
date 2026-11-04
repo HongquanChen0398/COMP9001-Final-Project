@@ -1,1 +1,11 @@
 report_id,report_type,item_name,category,colour,brand,location,report_date,description,contact,status
+L001,Lost,Blue phone,Electronics,Blue,Samsung,Fisher Library,2026-10-20,Blue phone with a scratched case,demo@example.com,Open
+F001,Found,Blue phone,Electronics,Blue,Samsung,Fisher Library,2026-10-20,Blue phone with a scratched case,demo@example.com,Open
+F002,Found,Blue phone,Electronics,Blue,Unknown,Fisher Library entrance,2026-10-21,Blue phone with a scratched case,demo@example.com,Open
+L002,Lost,Student ID card,Cards and Documents,White,Unknown,Carslaw Building,2026-11-02,Student card in a clear sleeve,demo@example.com,Open
+F003,Found,Canvas tote bag,Bags,Beige,Unknown,Wentworth Building,2026-11-02,Canvas tote with a green university logo,demo@example.com,Open
+L003,Lost,Grey hoodie,Clothing,Grey,Uniqlo,Sports Centre,2026-11-01,Zip hoodie with a small tear on the cuff,demo@example.com,Open
+F004,Found,Key ring,Keys,Silver,Unknown,Eastern Avenue,2026-11-03,Three keys with a red tag,demo@example.com,Open
+L004,Lost,Linear algebra textbook,Books,Green,Unknown,Fisher Library level 3,2026-11-02,Textbook with a yellow bookmark,demo@example.com,Open
+F005,Found,Black umbrella,Accessories,Black,Unknown,New Law Building,2026-11-03,Folding umbrella with a wooden handle,demo@example.com,Open
+L005,Lost,Stainless steel water bottle,Other,Silver,Unknown,Manning House,2026-11-01,Metal bottle with a mountain sticker,demo@example.com,Open
